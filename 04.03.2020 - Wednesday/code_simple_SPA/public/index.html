@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <h2>Show all users</h2>
+    <div id="allUsers">
+    </div>
+    <br>
+    <div id="userByIdHere">
+      <h2>Find user by id:</h2>
+      <input type="text" id="user_id">
+      <button type="button" id="user_by_id_btn" name="Find user">Find user</button>
+      <p id="user_id_text"><br><br><br></p>
+    </div>
+    <h2>Add user:</h2>
+    Write name:<br><input type="text" id="newName"><br>
+    Write age:<br><input type="text" id="newAge"><br>
+    Write gender:<br><input type="text" id="newGender"><br>
+    Write e-mail:<br><input type="text" id="newEmail"><br>
+    <button id="add_user_btn">Add user</button><br><br><br>
+
+    <h2>Delete user:</h2>
+    Write user id: <br><input type="text" id="deleteUserId"><br>
+    <button id="delete_user_btn">Delete user</button><br><br><br>
+
+    <h2>Edit user:</h2>
+    Write user id: <br><input type="text" id="editUserId"><br>
+    Write name:<br><input type="text" id="editName"><br>
+    Write age:<br><input type="text" id="editAge"><br>
+    Write gender:<br><input type="text" id="editGender"><br>
+    Write e-mail:<br><input type="text" id="editEmail"><br>
+    <button id="edit_user_btn">Save edited user</button><br><br><br>
+
+  </div>
+  <script src="bundle.js"></script>
+</body>
+
+</html>
