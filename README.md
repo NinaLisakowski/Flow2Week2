@@ -7,7 +7,8 @@ In the "Callbacks and more" exercise I did number 1, 2, 4, and 5. Number 6 and 7
 The "Fetch and Promises" exercises can be found in three different projects. 
 - 1-3 is found in 'SPAExerciseDay3/code_simple_SPA'
 - 4 is found in 'code_jsonserver_with_errors'
-- The part of the exercise that says 'Create a Single Page Application that uses our cool API :-)' can be found in 'code_simple_SPA'. Note that it is DIFFERENT than the 'SPAExerciseDay3/code_simple_SPA'.
+- The part of the exercise that says 'Create a Single Page Application that uses our cool API :-)' can be found in 'code_simple_SPA'. Note! it is DIFFERENT than the 'SPAExerciseDay3/code_simple_SPA'.
+This day had a lot of struggles.
 
 ## 05.03.2020 - Thursday
 I didn't do the "CORS and Single Page Application (SPA)" exercise.
